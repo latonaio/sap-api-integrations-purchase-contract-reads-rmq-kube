@@ -1,0 +1,36 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-purchase-contract-reads/SAP_API_Caller/caller.go#L58",
+	"function": "sap-api-integrations-purchase-contract-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"PurchaseContract": "4600000001",
+			"PurchaseContractType": "MK",
+			"CompanyCode": "1710",
+			"PurchasingDocumentDeletionCode": "",
+			"CreationDate": "/Date(1471305600000)/",
+			"Supplier": "USSU-VSF10",
+			"PurchasingOrganization": "1710",
+			"PurchasingGroup": "001",
+			"PaymentTerms": "0001",
+			"NetPaymentDays": "0",
+			"DocumentCurrency": "USD",
+			"ExchangeRate": "1.00000",
+			"ValidityStartDate": "/Date(1467331200000)/",
+			"ValidityEndDate": "/Date(1469923200000)/",
+			"SupplierRespSalesPersonName": "",
+			"SupplierPhoneNumber": "",
+			"IncotermsClassification": "EXW",
+			"PurchaseContractTargetAmount": "4000.00",
+			"InvoicingParty": "",
+			"ReleaseCode": "",
+			"IncotermsVersion": "",
+			"LastChangeDateTime": "",
+			"PurchasingProcessingStatus": "02",
+			"PurchasingProcessingStatusName": "Active",
+			"PurgContractIsInPreparation": false,
+			"to_PurchaseContractItem": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PURCHASECONTRACT_PROCESS_SRV/A_PurchaseContract('4600000001')/to_PurchaseContractItem"
+		}
+	],
+	"time": "2021-12-18T18:46:42.256637+09:00"
+}

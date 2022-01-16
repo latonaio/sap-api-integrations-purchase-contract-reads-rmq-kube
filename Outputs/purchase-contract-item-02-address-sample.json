@@ -1,0 +1,21 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-purchase-contract-reads/SAP_API_Caller/caller.go#L171",
+	"function": "sap-api-integrations-purchase-contract-reads/SAP_API_Caller.(*SAPAPICaller).Item",
+	"level": "INFO",
+	"message": [
+		{
+			"PurchaseContract": "4600000001",
+			"AddressID": "22889",
+			"PurchaseContractItem": "10",
+			"CityName": "Palo Alto",
+			"PostalCode": "94304-1355",
+			"StreetName": "Deer Creek",
+			"Country": "US",
+			"CorrespondenceLanguage": "EN",
+			"Region": "CA",
+			"PhoneNumber": "",
+			"FaxNumber": ""
+		}
+	],
+	"time": "2021-12-18T18:48:32.052539+09:00"
+}

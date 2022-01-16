@@ -1,0 +1,32 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-purchase-contract-reads/SAP_API_Caller/caller.go#L178",
+	"function": "sap-api-integrations-purchase-contract-reads/SAP_API_Caller.(*SAPAPICaller).Item",
+	"level": "INFO",
+	"message": [
+		{
+			"PurchaseContract": "4600000001",
+			"PurchaseContractItem": "10",
+			"ConditionValidityEndDate": "/Date(253402214400000)/",
+			"ConditionType": "PPR0",
+			"ConditionRecord": "0000008353",
+			"ConditionSequentialNumber": "1",
+			"ConditionValidityStartDate": "/Date(1471305600000)/",
+			"PricingScaleType": "A",
+			"PricingScaleBasis": "",
+			"ConditionScaleQuantity": "0.000",
+			"ConditionScaleQuantityUnit": "",
+			"ConditionScaleAmount": "0.00",
+			"ConditionScaleAmountCurrency": "",
+			"ConditionCalculationType": "C",
+			"ConditionRateValue": "20.000",
+			"ConditionRateValueUnit": "USD",
+			"ConditionQuantity": "1",
+			"ConditionQuantityUnit": "PC",
+			"BaseUnit": "PC",
+			"ConditionIsDeleted": false,
+			"PaymentTerms": "",
+			"ConditionReleaseStatus": ""
+		}
+	],
+	"time": "2021-12-18T18:48:32.434168+09:00"
+}
