@@ -6,11 +6,11 @@
 		{
 			"PurchaseContract": "4600000001",
 			"PurchaseContractItem": "10",
-			"ConditionValidityEndDate": "/Date(253402214400000)/",
+			"ConditionValidityEndDate": "9999-12-31T09:00:00+09:00",
 			"ConditionType": "PPR0",
 			"ConditionRecord": "0000008353",
 			"ConditionSequentialNumber": "1",
-			"ConditionValidityStartDate": "/Date(1471305600000)/",
+			"ConditionValidityStartDate": "2016-08-16T09:00:00+09:00",
 			"PricingScaleType": "A",
 			"PricingScaleBasis": "",
 			"ConditionScaleQuantity": "0.000",
@@ -28,5 +28,5 @@
 			"ConditionReleaseStatus": ""
 		}
 	],
-	"time": "2021-12-18T18:48:32.434168+09:00"
+	"time": "2022-01-28T11:41:58+09:00"
 }

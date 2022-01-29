@@ -133,7 +133,7 @@ func (c *SAPAPICaller) AsyncGetPurchaseContract(purchaseContract, purchaseContra
 ```
 
 ## Output  
-本マイクロサービスでは、[golang-logging-library](https://github.com/latonaio/golang-logging-library) により、以下のようなデータがJSON形式で出力されます。  
+本マイクロサービスでは、[golang-logging-library-for-sap](https://github.com/latonaio/golang-logging-library-for-sap) により、以下のようなデータがJSON形式で出力されます。  
 以下の sample.json の例は、SAP 購買基本契約 の ヘッダデータ が取得された結果の JSON の例です。  
 以下の項目のうち、"SalesContract" ～ "to_Item" は、/SAP_API_Output_Formatter/type.go 内 の Type Product {} による出力結果です。"cursor" ～ "time"は、golang-logging-library による 定型フォーマットの出力結果です。  
 
@@ -164,7 +164,6 @@ func (c *SAPAPICaller) AsyncGetPurchaseContract(purchaseContract, purchaseContra
 			"PurchaseContractTargetAmount": "4000.00",
 			"InvoicingParty": "",
 			"ReleaseCode": "",
-			"IncotermsVersion": "",
 			"LastChangeDateTime": "",
 			"PurchasingProcessingStatus": "02",
 			"PurchasingProcessingStatusName": "Active",
@@ -172,7 +171,6 @@ func (c *SAPAPICaller) AsyncGetPurchaseContract(purchaseContract, purchaseContra
 			"to_PurchaseContractItem": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PURCHASECONTRACT_PROCESS_SRV/A_PurchaseContract('4600000001')/to_PurchaseContractItem"
 		}
 	],
-	"time": "2021-12-18T18:46:42.256637+09:00"
+	"time": "2022-01-28T11:39:14.908297+09:00"
 }
-
 ```

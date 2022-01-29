@@ -24,7 +24,6 @@
 			"PurchaseContractTargetAmount": "4000.00",
 			"InvoicingParty": "",
 			"ReleaseCode": "",
-			"IncotermsVersion": "",
 			"LastChangeDateTime": "",
 			"PurchasingProcessingStatus": "02",
 			"PurchasingProcessingStatusName": "Active",
@@ -32,5 +31,5 @@
 			"to_PurchaseContractItem": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PURCHASECONTRACT_PROCESS_SRV/A_PurchaseContract('4600000001')/to_PurchaseContractItem"
 		}
 	],
-	"time": "2021-12-18T18:46:42.256637+09:00"
+	"time": "2022-01-28T11:39:14.908297+09:00"
 }

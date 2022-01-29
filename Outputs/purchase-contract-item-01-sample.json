@@ -47,5 +47,5 @@
 			"to_PurCtrAddress": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PURCHASECONTRACT_PROCESS_SRV/A_PurchaseContractItem(PurchaseContract='4600000001',PurchaseContractItem='10')/to_PurCtrAddress"
 		}
 	],
-	"time": "2022-01-16T22:24:15.920974+09:00"
+	"time": "2022-01-28T11:41:57+09:00"
 }
